@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+    alert("Working");
     document.body.innerHTML = `
       <div style="
         display: flex;
